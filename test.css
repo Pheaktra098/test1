@@ -1,0 +1,23 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+  
+
+.navbar{
+    background-color: #039;
+    overflow: hidden;
+}
+.navbar.container.logo-media.container{
+    max-width: 70%;
+    margin: auto;
+
+}
+.navbar.container.logo-media{
+    width: 100%;
+    float: left;
+}
+.navbar.navbar.container.logo-media.manu-icon{
+    display: none;
+}
